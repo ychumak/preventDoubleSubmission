@@ -1,7 +1,7 @@
 /*!
  * jQuery plugin to prevent double submission of forms 1.0.0
  *
- * 
+ * https://github.com/ychumak/preventDoubleSubmission
  * 
  * Copyright 2014 Yuriy Chumak
  * Released under the MIT license:
